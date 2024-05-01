@@ -1,0 +1,26 @@
+{
+  "name": "proscribe",
+  "version": "1.0.0",
+  "description": " Professional Note-Taking Solution",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramdev772/proscribe.git"
+  },
+  "author": "vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramdev772/proscribe/issues"
+  },
+  "homepage": "https://github.com/vikramdev772/proscribe#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0"
+  }
+}
